@@ -8,7 +8,7 @@
             <sparkle:version>42</sparkle:version>
             <sparkle:shortVersionString>2022.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/DangerCove/timeless-updates/releases/download/v2022.1b42/Timeless.zip" length="2216615" type="application/octet-stream" sparkle:edSignature="VesoCrp1C3hwEJhRc5DEdE4RWdf8ezKi9XVXQXfGini8dtgDGPzw8BJEI0JKtuKNCcsN/85Wzy+9jj9Y33kBDQ=="/>
+            <link>https://www.dangercove.com/timeless</link>
         </item>
     </channel>
 </rss>
